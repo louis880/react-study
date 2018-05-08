@@ -56,7 +56,7 @@ git remote rm [remote-name] # 移除一个远程仓库
 
 ```bash
 # 将本地已有的仓库推送到远程
-git remote add origin https://github.com/lulu27753/music_app.git
+git remote add origin https://github.com/lulu27753//react-studymusic_app.git
 git push -u origin master
 ```
 ## 1.2. gitignore 的格式规范
